@@ -7,6 +7,8 @@ import Projeto from './componentes/Projeto';
 import Acoes from './componentes/Acoes';
 import Maps from './componentes/Maps';
 import SecaoAjuda from './componentes/SecaoAjuda';
+import Parceiros from './componentes/Parceiros';
+import Ajuda from './componentes/Ajuda';
 
 
 
@@ -24,6 +26,8 @@ function App() {
         <Maps />
         <SecaoAjuda />
         <Legislacao />
+        <Parceiros />
+        <Ajuda />
       </main>
 
       <footer>

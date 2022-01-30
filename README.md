@@ -1,70 +1,135 @@
-# Getting Started with Create React App
+# HACKATONA ADE SAMPA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Equipe 128 - Mostra pra Elas
 
-## Available Scripts
+O **Mostra pra Elas** é um portal de acolhimento para as mulheres da cidade de São Paulo. Nele você encontra as principais políticas públicas e organizações de suporte às mulheres em situação de violência, distribuídas na cidade. 
 
-In the project directory, you can run:
+O diferencial do Mostra pra Elas é a sistematização das ações em um só local, facilitando o acesso à informação das mulheres que necessitam de apoio e facilitando a disseminação das informações de apoio às mulheres que sofrem violência contra a mulher. Pode ser uma ferramenta utilizada pelas mulheres, pelas organizações de apoio e pela Prefeitura de São Paulo como centralizadora de informações e plataformas existentes.  
 
-### `npm start`
+Vamos juntas tornar a cidade de São Paulo um lugar mais seguro!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 🚀 Começando
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Essas instruções permitirão que você consiga ter esse projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-### `npm run build`
+### 📋 Pré-requisitos para instalação 🔧
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Instale NodeJS em seu computador.
+* Baixe os aquivos do repositório mostra-pra-elas-sp aqui no GitHub.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📦 Desenvolvimento
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🛠️ Construído com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* [Figma](https://www.figma.com/) - Design UX-UI.
+* [Trello](https://trello.com/) - Gestão de Projetos.
+* [NodeJS](https://nodejs.org/pt-br/docs/) - Framework utilizado no Back-end.
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem utilizada no Front-end.
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem de marcação utilizada no Front-end.
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Utilizado para estilização das páginas no Front-end.
+* [React.js](https://pt-br.reactjs.org/) - Foi a biblioteca escolhida para construir toda a nossa aplicação.
+<br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## 📌 Versão
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Nós usamos [GitHub](https://github.com/) para controle de versão. Para as versões disponíveis, procure em [Mostra pra Elas SP](https://github.com/SahBianchi/mostra-pra-elas-sp).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## ✏️ Produto | Processo Criativo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 🔎 Pesquisa Quantitativa e Qualitativa
 
-### Analyzing the Bundle Size
+ **Suposições:**
+- Mulheres têm dúvidas sobre o que é violência doméstica.
+- Mulheres conseguem identificar alguns sinais de violência doméstica em outra mulher.
+- Mulheres conseguem identificar alguns sinais de violência doméstica contra elas.
+- Mulheres conhecem os meios de denúncia.
+- Mulheres não sabem onde buscar ajuda em casos de violência doméstica.
+- Mulheres acreditam que as cidades não são preparadas para acolher vítimas de violência doméstica
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### 🧑‍💻🙎‍♀️ Roteiro Quantitativo
 
-### Advanced Configuration
+**Dados demográficos**
+- Qual a sua idade?
+- Qual a cidade e Estado que você mora?
+- Qual é seu estado civil?
+- Qual é o seu nível de escolaridade?
+- Indique a faixa de renda que sua família possui:
+- Qual é o seu gênero?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+**Perguntas focais**
+- Você sabe o que é violência doméstica?
+- Você sabe identificar sinais de violência doméstica em outras pessoas?
+- Você sabe identificar sinais de violência doméstica em você?
+- Caso você sofresse ou soubesse de alguém que sofreu violência doméstica, você saberia/sabe onde buscar ajuda?
+- Dependendo da resposta anterior, por favor, digite onde você buscaria ajuda (caso não saiba só digitar "não sei").
+- Você considera fácil encontrar informações sobre o combate à violência doméstica (cartilhas, políticas públicas, centros de acolhimento, ONGs, etc)?
+- Você acredita que a sua cidade está preparada para receber a mulher vítima de violência doméstica?
+- Se alguém te perguntasse sobre políticas públicas, ONGs e/ou projetos da iniciativa privada voltados para o combate a violência doméstica, você saberia informar onde procurar essa ajuda?
+- Marque abaixo quais projetos você conhece (lembrando, é sobre a cidade de SP)
 
-### Deployment
+###🔎 Metodologia de pesquisa:
+Adaptação da Métrica NPS (Net Promoter Score) para avaliar a confiabilidade da resposta.
+Considerando de:
+0 a 6 - detratores: insatisfeitas com o conhecimento e/ou situação proposta;
+7 e 8 - neutros: conhecimento médio sobre o assunto ou neutra 
+9 e 10 - promotores: satisfeitas com o conhecimento e/ou situação proposta.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### 🧑‍🎤🙎‍♀️ Roteiro Qualitativo (resposta opcional)
+Gostaríamos de saber se você tem alguma vivência, angústia, dúvida, opinião sobre este assunto de Violência Doméstica. Sinta-se à vontade para compartilhar suas ideias com a gente ou não. 
 
-### `npm run build` fails to minify
+###  💡 Ideação
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Problema: Existem muitos materiais de qualidade produzidos por organizações dos diferentes setores e ações de proteção, orientação e qualificação de mulheres, porém, muitas não têm conhecimento sobre. Queremos fortalecer a mulher a entender que existe saída da situação de violência doméstica, conectando as mulheres com as estruturas já existentes no município de SP.
+
+Como? Criando um portal com informações sobre como identificar a violência doméstica, materiais de indicação para aprofundamento e o mapa com os locais de acolhimento e encaminhamento dos casos disponíveis no estado de SP. Aparatos públicos, Organizações não governamentais, coletivos, organizações privadas e de terceiro setor, que trabalham com o acolhimento da mulher em situação de violência e outros aspectos da vida da mulher (emprego, rede de conexão) que cortem o ciclo da violência, disseminando informação e fortalecendo a rede
+
+### 🏷️ Branding
+
+
+
+
+### 📈 Business
+
+
+
+### 💻 Sitemap
+
+
+
+### 📺 Vídeos de Apresentação
+
+
+## ✒️ As Criadoras
+
+⚙️**Marcella Justo** - *Desenvolvedora* [Linkedin](https://www.linkedin.com/in/marcellajusto/) | [GitHub](https://github.com/justo-marcella)
+
+💻 **Samantha Bianchi** - *Desenvolvedora* [Linkedin](https://www.linkedin.com/in/sahbianchi/) | [GitHub](https://github.com/SahBianchi)  
+
+📀 **Louise Celeste Rolim da Silva** - *Marketing* [Linkedin](https://www.linkedin.com/in/louise-rolim-abaa71228/) | [Portifólio](https://louiserolim.contently.com/)
+
+💡**Patricia Laís da Silva Cunha** - *Design* [Linkedin](https://www.linkedin.com/in/patricialaisscunha/) | [Portifólio](shorturl.at/hiyG9 )
+
+🚀 **Amanda Lopes Santiago** - *Negócios* [Linkedin](https://www.linkedin.com/in/amandalopes27/)
+
+<br>
+
+
+## 🎁 Expressões de gratidão
+
+* Gostaríamos de agradecer a ADE SAMPA por promover a HACKATONA e nos dar oportunidade de compartilharmos nossos conhecimentos e desenvolvermos nossas habilidades na construção de uma solução para o problema de violência doméstica na cidade de São Paulo.
+
+* Obrigada a todas as mentoras que nos motivaram e apoiaram ao longo do desenvolvimento deste projeto. 🙎‍♀️💪
+<br>
+
