@@ -12,3 +12,14 @@
 .primario:hover{
     background-color: #f27405;    
 }
+
+.segundario{
+    width: 372px;
+    height: 48px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #542773;
+    border: none;
+}
