@@ -1,6 +1,5 @@
 import React from "react";
 import styles from './styles.module.css'
-import ImgProjeto from '../../assets/img/Img-Projeto.png'
 
 export default function Maps(){
     return(
