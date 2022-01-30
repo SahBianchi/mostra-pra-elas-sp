@@ -1,6 +1,10 @@
 import React from "react";
 import styles from './styles.module.css'
-// import ImgProjeto from '../../assets/img/Img-Projeto.png'
+import Card from 'react-bootstrap/Card'
+import ImgAjuda from '../../assets/img/Img-Acao1.png'
+import ImgDenuncia from '../../assets/img/Img-Acao2.png'
+import ImgEmprego from '../../assets/img/Img-Acao3.png'
+import ImgViolencia from '../../assets/img/Img-Acao4.png'
 
 export default function Acoes(){
     return(
@@ -14,13 +18,38 @@ export default function Acoes(){
             </div>
 
             <div className={styles.containerCards}>
-                <div className={styles.card}>
-                    <h3 className={styles.subTitulo}>Onde posso buscar ajuda?</h3>
-                    <div className={styles.cardBody}>
-                        <h4>Acesse aqui</h4>
-                    </div>
-                </div>
-                
+                <Card className={styles.cardBody}>
+                    <Card.Img src={ImgAjuda} variant="top"/>
+                    <Card.Body>
+                        <Card.Text className={styles.cardText}>
+                            Acesse aqui
+                        </Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card className={styles.cardBody}>
+                    <Card.Img src={ImgDenuncia} variant="top"/>
+                    <Card.Body>
+                        <Card.Text className={styles.cardText}>
+                            Acesse aqui
+                        </Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card className={styles.cardBody}>
+                    <Card.Img src={ImgEmprego} variant="top"/>
+                    <Card.Body>
+                        <Card.Text className={styles.cardText}>
+                            Acesse aqui
+                        </Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card className={styles.cardBody}>
+                    <Card.Img src={ImgViolencia} variant="top"/>
+                    <Card.Body>
+                        <Card.Text className={styles.cardText}>
+                            Acesse aqui
+                        </Card.Text>
+                    </Card.Body>
+                </Card>
             </div>
         </div>
     )
