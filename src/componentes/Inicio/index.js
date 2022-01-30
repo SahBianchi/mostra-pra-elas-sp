@@ -1,6 +1,6 @@
 import React from "react";
 import styles from './styles.module.css'
-import ImgInicio from '../imagens/Img-Inicio.png'
+import ImgInicio from '../../assets/img/Img-Inicio.png'
 
 
 export default function Inicio(){

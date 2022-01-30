@@ -1,10 +1,10 @@
 import React from "react";
 import styles from './styles.module.css'
 
-import LogoBranca from '../imagens/Logo-Branca.png'
-import IconeYoutube from '../imagens/Icone-Youtube.png'
-import IconeInstagram from '../imagens/Icone-Instagram.png'
-import IconeFacebook from '../imagens/Icone-Facebook.png'
+import LogoBranca from '../../assets/img/Logo-Branca.png'
+import IconeYoutube from '../../assets/img/Icone-Youtube.png'
+import IconeInstagram from '../../assets/img/Icone-Instagram.png'
+import IconeFacebook from '../../assets/img/Icone-Facebook.png'
 
 export default function Footer(){
     return(

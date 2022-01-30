@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from '../imagens/Logo.png'
+import Logo from '../../assets/img/Logo.png'
 import styles from './styles.module.css'
 import Botao from "../Botao";
 

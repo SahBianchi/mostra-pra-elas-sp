@@ -1,6 +1,6 @@
 import React from "react";
 import styles from './styles.module.css'
-import ImgProjeto from '../imagens/Img-Projeto.png'
+import ImgProjeto from '../../assets/img/Img-Projeto.png'
 
 export default function Projeto(){
     return(
