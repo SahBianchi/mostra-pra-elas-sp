@@ -4,6 +4,7 @@ import Inicio from './componentes/Inicio';
 import Navbar from './componentes/Navbar';
 import Projeto from './componentes/Projeto';
 import Acoes from './componentes/Acoes';
+import SecaoAjuda from './componentes/SecaoAjuda';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Inicio />
         <Projeto />
         <Acoes />
+        <SecaoAjuda />
       </main>
 
       <footer>
