@@ -1,0 +1,45 @@
+.container{
+    width: 100%;
+    padding: 3% 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    text-align: center;
+}
+
+.containerTexto{
+    width: 1%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.subTitulo{
+    width: 571px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.texto1{
+    width: 472px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+}
+
+.texto2{
+    width: 472px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.listaMaps{
+    font-size: 14px;
+    list-style: none;
+    text-align: left;
+}
