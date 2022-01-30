@@ -3,6 +3,7 @@ import Footer from './componentes/Footer';
 import Inicio from './componentes/Inicio';
 import Navbar from './componentes/Navbar';
 import Projeto from './componentes/Projeto';
+import SecaoAjuda from './componentes/SecaoAjuda';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <main>
         <Inicio />
         <Projeto />
+        <SecaoAjuda />
       </main>
 
       <footer>
