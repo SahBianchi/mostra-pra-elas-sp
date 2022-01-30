@@ -4,7 +4,7 @@
 
 O **Mostra pra Elas** é um portal de acolhimento para as mulheres da cidade de São Paulo. Nele você encontra as principais políticas públicas e organizações de suporte às mulheres em situação de violência, distribuídas na cidade. 
 
-O diferencial do Mostra pra Elas é a sistematização das ações em um só local, facilitando o acesso à informação das mulheres que necessitam de apoio e facilitando a disseminação das informações de apoio às mulheres que sofrem violência contra a mulher. Pode ser uma ferramenta utilizada pelas mulheres, pelas organizações de apoio e pela Prefeitura de São Paulo como centralizadora de informações e plataformas existentes.  
+O diferencial do Mostra pra Elas é a sistematização das ações em um só local, facilitando o acesso à informação das mulheres que necessitam de apoio e facilitando a disseminação das informações de apoio às mulheres que sofrem violência contra a mulher. Além disso, conta também com a rede de atendimento georreferenciada, permitindo que as vítimas encontrem atendimento e serviços próximos aos seus domicílios. Pode ser uma ferramenta utilizada pelas mulheres, pelas organizações de apoio e pela Prefeitura de São Paulo como centralizadora de informações e plataformas existentes.  
 
 Vamos juntas tornar a cidade de São Paulo um lugar mais seguro!
 
@@ -45,6 +45,9 @@ Nós usamos [GitHub](https://github.com/) para controle de versão. Para as vers
 
 
 ## ✏️ Produto | Processo Criativo
+
+Nós usamos o [Google Jams]([https://jamboard.google.com/d/1EYJvGsxZzduYillfBQB6clEJgZ0aauEqIzHK1KsPORY/viewer?f=0) para realizar Matriz CSD, How We Might (como podemos) e Crazy 8.
+Depois utilizamos o [Figma](https://www.figma.com/file/Bl8mVCAbvD3iM8pwgvM9oE/Hackatona---Grupo-128?node-id=1470%3A16581) como plataforma para fluxograma, criação de wireframe e protótipos
 
 ### 🔎 Pesquisa Quantitativa e Qualitativa
 
@@ -95,19 +98,6 @@ Problema: Existem muitos materiais de qualidade produzidos por organizações do
 
 Como? Criando um portal com informações sobre como identificar a violência doméstica, materiais de indicação para aprofundamento e o mapa com os locais de acolhimento e encaminhamento dos casos disponíveis no estado de SP. Aparatos públicos, Organizações não governamentais, coletivos, organizações privadas e de terceiro setor, que trabalham com o acolhimento da mulher em situação de violência e outros aspectos da vida da mulher (emprego, rede de conexão) que cortem o ciclo da violência, disseminando informação e fortalecendo a rede
 
-### 🏷️ Branding
-
-
-
-
-### 📈 Business
-
-
-
-### 💻 Sitemap
-
-
-
 ### 📺 Vídeos de Apresentação
 
 
@@ -117,11 +107,11 @@ Como? Criando um portal com informações sobre como identificar a violência do
 
 💻 **Samantha Bianchi** - *Desenvolvedora* [Linkedin](https://www.linkedin.com/in/sahbianchi/) | [GitHub](https://github.com/SahBianchi)  
 
-📀 **Louise Celeste Rolim da Silva** - *Marketing* [Linkedin](https://www.linkedin.com/in/louise-rolim-abaa71228/) | [Portifólio](https://louiserolim.contently.com/)
+📀 **Louise Celeste Rolim da Silva** - *Marketing Pesquisa* [Linkedin](https://www.linkedin.com/in/louise-rolim-abaa71228/) | [Portifólio](https://louiserolim.contently.com/)
 
-💡**Patricia Laís da Silva Cunha** - *Design* [Linkedin](https://www.linkedin.com/in/patricialaisscunha/) | [Portifólio](shorturl.at/hiyG9 )
+💡**Patricia Laís da Silva Cunha** - *Design e Produto* [Linkedin](https://www.linkedin.com/in/patricialaisscunha/) | [Portifólio](shorturl.at/hiyG9 )
 
-🚀 **Amanda Lopes Santiago** - *Negócios* [Linkedin](https://www.linkedin.com/in/amandalopes27/)
+🚀 **Amanda Lopes Santiago** - *Negócios e Pesquisa* [Linkedin](https://www.linkedin.com/in/amandalopes27/)
 
 <br>
 
