@@ -1,6 +1,7 @@
 import './App.css';
 import Footer from './componentes/Footer';
 import Inicio from './componentes/Inicio';
+import Legislacao from './componentes/Legislacoes';
 import Navbar from './componentes/Navbar';
 import Projeto from './componentes/Projeto';
 import SecaoAjuda from './componentes/SecaoAjuda';
@@ -17,6 +18,7 @@ function App() {
         <Inicio />
         <Projeto />
         <SecaoAjuda />
+        <Legislacao />
       </main>
 
       <footer>
