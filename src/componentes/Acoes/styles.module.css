@@ -1,0 +1,55 @@
+.container{
+    width: 100%;
+    padding: 3% 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #E0C2FF;
+}
+
+.containerTexto{
+    width: 1%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: center;
+}
+
+.subTitulo{
+    width: 571px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.texto1{
+    width: 472px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+}
+
+.texto2{
+    width: 472px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.imgAjuda{
+    
+}
+
+.containerCards{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 274px;
+    height: 300px;
+    background-image: url(../../assets/img/Img-Acao1.png);
+    display: flex;
+}
+
+.cardBody{
+    background-color:#542773;
+    width: 274px;
+}
