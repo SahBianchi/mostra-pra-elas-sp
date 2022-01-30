@@ -5,6 +5,7 @@ import ImgAjuda from '../../assets/img/Img-Acao1.png'
 import ImgDenuncia from '../../assets/img/Img-Acao2.png'
 import ImgEmprego from '../../assets/img/Img-Acao3.png'
 import ImgViolencia from '../../assets/img/Img-Acao4.png'
+import { CardGroup } from "react-bootstrap";
 
 export default function Acoes(){
     return(
@@ -18,6 +19,7 @@ export default function Acoes(){
             </div>
 
             <div className={styles.containerCards}>
+                <CardGroup className={styles.cardGroup}>
                 <Card className={styles.cardBody}>
                     <Card.Img src={ImgAjuda} variant="top"/>
                     <Card.Body>
@@ -50,6 +52,7 @@ export default function Acoes(){
                         </Card.Text>
                     </Card.Body>
                 </Card>
+                </CardGroup>
             </div>
         </div>
     )
