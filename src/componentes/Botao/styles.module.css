@@ -1,0 +1,14 @@
+.primario{
+    width: 139px;
+    height: 40px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #d99036;
+    border: none;
+}
+
+.primario:hover{
+    background-color: #f27405;    
+}
