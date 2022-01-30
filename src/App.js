@@ -6,6 +6,7 @@ import Navbar from './componentes/Navbar';
 import Projeto from './componentes/Projeto';
 import Acoes from './componentes/Acoes';
 import SecaoAjuda from './componentes/SecaoAjuda';
+import Parceiros from './componentes/Parceiros';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Acoes />
         <SecaoAjuda />
         <Legislacao />
+        <Parceiros />
       </main>
 
       <footer>
