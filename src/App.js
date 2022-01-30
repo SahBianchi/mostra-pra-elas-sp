@@ -7,6 +7,7 @@ import Projeto from './componentes/Projeto';
 import Acoes from './componentes/Acoes';
 import SecaoAjuda from './componentes/SecaoAjuda';
 import Parceiros from './componentes/Parceiros';
+import Ajuda from './componentes/Ajuda';
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
         <SecaoAjuda />
         <Legislacao />
         <Parceiros />
+        <Ajuda />
       </main>
 
       <footer>
