@@ -4,15 +4,17 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    /* justify-content: center; */
+    /* align-items: center; */
     background-color: #E0C2FF;
+    /* text-align: center; */
 }
 
 .containerTexto{
     width: 1%;
     display: flex;
     flex-direction: column;
-    text-align: left;
+    text-align: center;
     justify-content: center;
 }
 
@@ -61,4 +63,9 @@
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-evenly;
+}
+
+.listaMaps{
+    text-st: none;
+    font-size: 14px;
 }

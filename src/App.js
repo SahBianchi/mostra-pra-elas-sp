@@ -5,7 +5,9 @@ import Legislacao from './componentes/Legislacoes';
 import Navbar from './componentes/Navbar';
 import Projeto from './componentes/Projeto';
 import Acoes from './componentes/Acoes';
+import Maps from './componentes/Maps';
 import SecaoAjuda from './componentes/SecaoAjuda';
+
 
 
 function App() {
@@ -19,6 +21,7 @@ function App() {
         <Inicio />
         <Projeto />
         <Acoes />
+        <Maps />
         <SecaoAjuda />
         <Legislacao />
       </main>
