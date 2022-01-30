@@ -6,8 +6,8 @@ export default function Legislacao(){
     return(
         <div className={styles.containerSecao}>
             <div className={styles.container}>
-                <h2 className={styles.subTitulo}>A ajuda está sempre perto de você</h2>
-                <p className={styles.textoApoio}>Selecione no mapa o local onde você deseja saber de iniciativas, projetos, centros e delegacias que possam te ajudar.</p>
+                <h2 className={styles.subTitulo}>As leis estão do seu lado!</h2>
+                <p className={styles.textoApoio}>Veja algumas leis que fundamentam, protegem e ajudam mulheres.</p>
             </div>
 
             <div className={styles.containerCards}>
@@ -28,6 +28,12 @@ export default function Legislacao(){
                    <h3 className={styles.nomeLei}>Importunação Sexual  (Lei de nº 13.718)</h3>
                    <h4 className={styles.dataLei}>7 de agosto de 2006</h4>
                    <p className={styles.textoLei}>Tipifica os crimes de importunação sexual e de divulgação de cena de estupro. revogando o dispositivo de “ofensa ao pudor”.</p> 
+                </div>
+
+                <div className={styles.card}>
+                   <h3 className={styles.nomeLei}>Auxílio aluguel ( Lei 17.320/2020)</h3>
+                   <h4 className={styles.dataLei}>31 de agosto de 2021</h4>
+                   <p className={styles.textoLei}>Mulheres vítimas de violência doméstica em situação de vulnerabilidade social têm direito a auxílio-aluguel, no valor de R$ 400 mensais. Instituído pela Lei 17.320/2020, regulamentado pelo Decreto Municipal 60.111/2021 e Portaria 028/SMDHC/2021.</p> 
                 </div>
             </div>
 

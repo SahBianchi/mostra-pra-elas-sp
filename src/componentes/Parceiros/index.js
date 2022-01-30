@@ -13,9 +13,9 @@ export default function Acoes(){
             
             <div className={styles.logos}>
                 <img src={LogoAdeSampaePrefeitura} className={styles.logo} />
-                <img src={LogoBuser} className={styles.logo} />
+                <img src="https://logospng.org/download/buser/logo-buser-256.png"  className={styles.logo} />
                 <img src={LogoCronapp} className={styles.logo} />
-                <img src={LogoIfood} className={styles.logo} />
+                <img src="https://logopng.com.br/logos/ifood-43.svg" className={styles.logo} />
                 <img src={LogoUber} className={styles.logo} />
             </div>
         </div>
